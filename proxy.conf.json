@@ -1,0 +1,8 @@
+{
+    "/api/location/": {
+        "target": "http://prod.kaisens.fr:811",
+        "secure": false,
+        "logLevel": "debug"
+        
+    }
+}
